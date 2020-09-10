@@ -10,3 +10,4 @@ describe('App', function () {
         assert.equal(app(), 'Hello');
     })
 })
+
